@@ -229,7 +229,7 @@ section {
 .nav_menu-m {
     position: fixed;
     left: 0;
-    top: -100%;
+    top: -200%;
     background: var(--bg-light);
     z-index: 99;
     box-shadow: #5555554d 5px 9px 30px 0px;
